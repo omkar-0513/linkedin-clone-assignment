@@ -1,5 +1,5 @@
 // Set the base URL of your backend API
-const API_BASE_URL = 'http://localhost:5000/api'; // Change this when you deploy
+const API_BASE_URL = 'https://omkar-linkedin-backend.onrender.com'; 
 
 document.addEventListener('DOMContentLoaded', () => {
     // Check which page we are on and run the correct setup function
